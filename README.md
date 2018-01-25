@@ -8,7 +8,7 @@ deliberately. Here are the steps:
 
 - First, get an appropriately rigid setup, where we have something like this:
 
-  [TODO: insert image here!]
+  ![setup](images/setup.JPG?raw=true)
 
   The base should not be foamy, since otherwise the location of the things we
   measure can change even if the camera stays constant.
